@@ -21,7 +21,7 @@ Acted as both attacker and defender in a segmented lab network. Used Nmap to sca
 <br />
 <br />
 
-<b>Task B — Step 2a:</b> Cleared the previous rule and configured pfSense to block all ICMP traffic from External Kali to the LAN side. <br/>
+<b>Task B — Step 2a:</b> Configured pfSense to block all ICMP traffic from External Kali to the LAN side. <br/>
 <img src="PART%20B3.png" height="80%" width="80%" alt="Sword vs Shield Task B Step 2a"/>
 <br />
 <br />
